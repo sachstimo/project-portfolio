@@ -22,6 +22,7 @@ Welcome to my project portfolio! Below, you'll find an overview of the machine l
 - Spotify playlist analyzer
 
 **[4. Others](/04_Others/)**
+- **Pharmacy Sales Analysis** using **R**: Identifying the top 20 pharmacies with the highest sales for a given product category
 - [Secret Santa Email Bot](https://github.com/sachstimo/secret-santa-mailer): Automatically assign Secret Santa recipients and email them directly
 
 
