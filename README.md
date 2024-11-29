@@ -3,7 +3,7 @@
 
 Welcome to my project portfolio! Below, you'll find an overview of the machine learning and data projects I have worked on. These projects reflect my focus on creating practical, impactful solutions through data analysis, machine learning, and cloud integration. I will continue to add to this list as I work on more projects.
 
-[www.timosachs.de](www.timosachs.de)
+[www.timosachs.de](https://www.timosachs.de)
 
 
 
